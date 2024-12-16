@@ -3,7 +3,6 @@ import Essential from "../../components/ESSENTIAL";
 import Featured from "../../components/FEATURED";
 import GearUp from "../../components/GEARUP";
 import Hero from "../../components/HERO";
-import Navigation from "../../components/HEADER";
 import { CarouselSize } from "../../components/BEST"
 
 
